@@ -1,9 +1,10 @@
-import Profile from "./Profile";
-import userData from "../userData.json";
-import friends from "../friends.json";
-import FriendList from "./FriendList";
-import transactions from "../transactions.json";
-import TransactionHistory from "./TransactionHistory";
+import Profile from "../Profile/Profile";
+import userData from "../../userData.json";
+import friends from "../../friends.json";
+import FriendList from "../Friends/FriendList";
+import transactions from "../../transactions.json";
+import TransactionHistory from "../Transaction/TransactionHistory";
+// import clsx from "clsx";
 
 
 const App = () => {
