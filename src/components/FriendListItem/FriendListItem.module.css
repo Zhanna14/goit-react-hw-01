@@ -1,28 +1,28 @@
 .card {
-    width: 140px;
-    height: 200px;
-    border-radius: 10px;
-     border: 2px solid #9e9999;
+  width: 140px;
+  height: 200px;
+  border-radius: 10px;
+  border: 2px solid #9e9999;
 }
 .img {
-    margin: auto;
-margin-top: 10px;
-margin-bottom: 10px;
-width: 100px;
-height: 100px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100px;
+  height: 100px;
 }
 
 .name {
-    font-size: x-large;
-    font-weight: 600px;
+  font-size: x-large;
+  font-weight: 600px;
 }
 
 .active {
-    font-weight: 500px;
-    color: rgb(14, 223, 14);
+  font-weight: 500px;
+  color: rgb(14, 223, 14);
 }
 
 .retired {
-    font-weight: 500px;
-    color: red;
+  font-weight: 500px;
+  color: red;
 }

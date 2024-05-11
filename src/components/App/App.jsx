@@ -6,7 +6,6 @@ import transactions from "../../transactions.json";
 import TransactionHistory from "../Transaction/TransactionHistory";
 // import clsx from "clsx";
 
-
 const App = () => {
   return (
     <>
