@@ -9,6 +9,7 @@ import TransactionHistory from "../Transaction/TransactionHistory";
 const App = () => {
   return (
     <>
+      
       <Profile
         name={userData.username}
         tag={userData.tag}
